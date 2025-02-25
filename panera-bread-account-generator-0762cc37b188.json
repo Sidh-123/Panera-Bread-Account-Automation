@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "panera-bread-account-generator",
+  "private_key_id": "0762cc37b18870a2a3c5a2df4bd33029c89444fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAcICdaNX5t4I/\nWrwAQlU+vD7quvj7WwBky+Cj7+UUEqX2Mf6Se1MyyqVk9zDfs+zkUiEXFSt7JkvE\nzdoxDXcOBBctY0A8y62zznMGhmS8sHk0Mgx+jix1MbivveIq96fthi9VJPT0p8eA\ntIIQddtLiWlIhHZocTRI72lLSIrRhWkF1ogGgfYBG2S6mryZfA4anRjy8sIre15i\n1WnY9nl5Jym5smiuM6heclIMkGb82geAAvwnBTH6D1FJw/p9QLUeppht+wwfzpOi\nVAAVwTkZPDQTZrRZZ67+hWAQgT3pRvy5nvT0/ooPJfefmp7wLm4o2fOuGbKDdVJV\n55ofINM9AgMBAAECggEAEDd60ykCPSK2fmXESYZNfjWpXKkIcdAboqLeqZn99TjU\nFQDmCcyMOI/Eq9M74mIccKouIS6WxTA3Oty5CiCvG3aDSH8gau8kEm6vmUlqhE8f\ny6L7FBAhlXes71xiSoons9e2tedhIBvib0lm24G/CujHv0VwYAFILWxFdINmtVyy\nEC/eV9OBTMqMSKUdaUIQekP3m2nnnGbHWElzxMoAUGdFrFiPHFVjuQXIZ4S0Vi7L\nMPGkm/YCaB1W5+V93nnUS+1XiIdWNkSmf5D0LJ4ylzzLxWQTJXiDVeA8CkPk01Wn\nAT2wCeEevcC0TEialSUtyIKnQefELKiohoBx+JL7KQKBgQDic5XxxrH2dRSo3hpO\nfBumhIeTSjUxOvUusje53706nM9UVHp4biknkXLNYZJJGE+lC2SMrjZArUaVtvPU\nDopy3unrVin9hz/C36LZVkeptGJw03WBvfeAWgaIM6jLd2nWlV+XYtOBuDtURm2a\nsR9pAp0yMeGXU4BnQfZOcY+PpQKBgQDZjMYtS6DN5mZhmgj/Rv3kXeTzBlEHHaGm\nqk9HCmt/8h0ff3eVink3ZGOcYxfNrs+A+uPe76pXQsKi4RMSlT7xejG4mzlOlRZ1\nEBTtnRkQsGaeoh1q2vVmcize3LKqINC+xxo2LcUqKRNDx3S1dOXibulLjAxAe3x7\nlvxjEvrhuQKBgDgMfdd6439p2TQ2zPISG9HqSZg2LNZDjn4BVHOoIjEIsPRheHKo\naX1GrdCRzuBSqRvjpv5+/CSj/q19u/oHo1LtQ56hFAGRYUG9kpQSm+gwIpFkdVgo\nicL2BVne12+M3eBj1mYk6s7Xp6+jQuuf3XNjVz8eQ4TuAQENvYYK64qVAoGABcaj\nDFjRsCXJ2hWI354253VGut0UEahLvm0PJce1CvSWqVttBV9j0ICt1F0dKKzXfYkr\nu6OJVj/DgyeOphOoVCj2YPxeDSQQMJN4usZNABBu6Q9M0KV3lny5jEE3zSSJ5kbK\n/10/utrUVBxbkOXFpLllIEhbmuqsZ2uez9KVLqECgYEA1foXpMD7pZvyw+brWFSc\nCDNwCduso2OGlpJMGL3WytNrgr5GefG3mfIUGbHMcHTfPaVL0jLFMacrS+JXelOq\nni6IjQJW565aTF3ZxQgcMeiIAuf0gXm6C6Q7Mqek+L9jZq/sVqLIvjN+Dt5+mZ7S\n9KDnDrJLaqPZfhdHK1PICYg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "panera-account-generator@panera-bread-account-generator.iam.gserviceaccount.com",
+  "client_id": "116469699000925188101",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/panera-account-generator%40panera-bread-account-generator.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
